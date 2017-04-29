@@ -1,0 +1,34 @@
+{
+	"ImportPath": "github.com/hase-yuu/hls-mock",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "goji.io",
+			"Comment": "v1.0-7-ge355964",
+			"Rev": "e355964ac565b94cf0fc7f218346626529125086"
+		},
+		{
+			"ImportPath": "goji.io/internal",
+			"Comment": "v1.0-7-ge355964",
+			"Rev": "e355964ac565b94cf0fc7f218346626529125086"
+		},
+		{
+			"ImportPath": "goji.io/pat",
+			"Comment": "v1.0-7-ge355964",
+			"Rev": "e355964ac565b94cf0fc7f218346626529125086"
+		},
+		{
+			"ImportPath": "goji.io/pattern",
+			"Comment": "v1.0-7-ge355964",
+			"Rev": "e355964ac565b94cf0fc7f218346626529125086"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "4599ae7937fce9b670ce32b8ad32bbb7ae726b3e"
+		}
+	]
+}
